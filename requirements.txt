@@ -1,6 +1,5 @@
 Flask==0.12.1
 requests
-simplejson
 urllib
 numpy
 datetime
