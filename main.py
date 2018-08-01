@@ -1,8 +1,8 @@
-from flask import Flask
+from flask import Flask, request, jsonify
+import requests
 app = Flask(__name__)
 
 # from flask import Flask, request, jsonify
-# import requests
 # import json
 # import urllib
 # import numpy as np
