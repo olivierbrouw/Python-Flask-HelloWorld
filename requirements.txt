@@ -2,3 +2,5 @@ Flask==0.12.1
 requests
 json
 urllib
+numpy
+datetime
